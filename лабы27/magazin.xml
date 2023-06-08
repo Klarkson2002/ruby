@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maga>
+    <book>
+        <MarkTwain Книга "Приключения Тома Сойера", автор: Марк Твен price="1000" kolvo="5"></MarkTwain>
+        <ArthurConanDoyle Книга "Воспоминания Шерлока Холмса", автор: Артур Конан Дойль amount="1100" kolvo="1"></ArthurConanDoyle>
+    </book>
+    <dick>
+        <JudasPriest Диск Judas Priest - Turbo(Heavy Metal) price="500" kolvo="2"></JudasPriest>
+        <JudasPriest Диск Judas Priest - Ram It Down(Heavy Metal) price="550" kolvo="3"></JudasPriest>
+    </dick>
+    <films "Пролетая над гнездом кукушки", реж. Милош Форман(1975) price="350" kolvo="3"></films>
+    
+</maga>

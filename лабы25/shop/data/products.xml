@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<products>
+  <product price='1000000' amount_available='5'>
+    <book title='злой дух ступеней' author_name='ДЫО'/>
+  </product>
+  <product price='110000000' amount_available='1'>
+    <book title='Pink Dark Boy' author_name='Роханом Кишибе '/>
+  </product>
+  <product price='50' amount_available='2'>
+    <musik album_name='Лолихантер' artist_name='BRATISHKIN, NEVERLOVE ' genre='BRATISHKIN'/>
+  </product>
+  <product price='5' amount_available='3'>
+    <music album_name='Всё решено' artist_name='Валентин Стрыкало' genre='Валентин Стрыкало'/>
+  </product>
+  <product price='666' amount_available='3'>
+    <movie title='Зелёный слоник' director_name='Светлана Баскова' year='1975'/>
+  </product>
+  <product price='777' amount_available='100000'>
+    <music artist_name='опенинги' album_name='роман донской опенинги' genre='роман донской'/>
+  </product>
+</products>
